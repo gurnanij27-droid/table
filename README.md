@@ -1,7 +1,7 @@
-#table project
-this project is created using html and css
-##description
-a simple table webpage created for practice 
-## technologies used
-html
-css
+#Table Project
+This project is created using HTML and CSS
+##Description
+A simple table webpage created for practice 
+## Technologies Used
+HTML
+CSS
